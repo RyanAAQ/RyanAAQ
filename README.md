@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Ryan&fontSize=70&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Backend%20%2B%20Mobile&descAlignY=60&descSize=18" alt="Ryan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Ryan&fontSize=70&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20%2B%20Mobile&descAlignY=60&descSize=18" alt="Ryan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F72585&center=true&vCenter=true&width=640&lines=I+like+clean+code+and+tests+that+actually+catch+bugs;OOP+%7C+Data+Structures+%7C+Design+Patterns;FastAPI+%2B+Flutter+%2B+Java;Building+things+people+can+actually+use" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 
 ## 👋 A bit about me
 
-I'm a software engineering student in Nigeria. I spend most of my time on object-oriented design, data structures and design patterns, and I try to build everything the way I'd want to maintain it six months later: small classes, clear layers, and tests written first.
+I'm a software developer based in Lagos, Nigeria, open to full-time roles (on-site, hybrid or remote). I spend most of my time on object-oriented design, data structures and design patterns, and I try to build everything the way I'd want to maintain it six months later: small classes, clear layers, and tests written first.
 
 I learn fastest by building real things, so most of my repos are projects I actually wanted to exist, not just exercises.
 
